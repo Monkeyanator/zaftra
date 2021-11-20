@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Zaftra"
+license = "MIT"
+licenselink = "https://github.com/Monkeyanator/zaftra/blob/master/LICENSE"
+description = "Stylish Hugo theme built for long-form writing."
+homepage = "http://example.com/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Sam Naser"
+  homepage = "samnaser.com"
